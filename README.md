@@ -68,5 +68,5 @@ func Dat2Image(datpath string) (string, error) {
 
 下面用golang写了一个简单的转换程序，只要将wechat_dat_to_image.exe在需要转换的dat文件所在目录下运行就可以了，在github源码里可以下载到这个程序。
 
-[github源码](https://github.com/tujiaw/wechat_dat_to)  
-[https://github.com/tujiaw/wechat_dat_to](https://github.com/tujiaw/wechat_dat_to)
+[github源码](https://github.com/tujiaw/wechat_dat_to_image)  
+[https://github.com/tujiaw/wechat_dat_to_image](https://github.com/tujiaw/wechat_dat_to_image)
